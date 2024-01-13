@@ -50,3 +50,4 @@ When using with other filters, specify `images.AutoOrient` first.
   filterArgs=""
   example=true
 >}}
+{}
